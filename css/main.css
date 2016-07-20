@@ -1,0 +1,37 @@
+body{
+	margin:85px; 
+	padding:50px;
+	background-color:pink;
+}
+hr{
+	align:left;
+	width: 250px;
+	color:black;
+	margin: 0px;
+	margin-bottom: 10px;
+	size:5px;
+}
+span{
+	color:white;
+	position: absolute;
+	top: 190px;
+
+}
+	
+.top{
+	position: relative;
+	left: 100px;
+	top: 10px;
+
+}
+img{
+	opacity: 0.9;
+}
+	
+.bottom{
+	position: relative;
+	left: 100px;
+	top: 30px;
+}
+
+
